@@ -10,6 +10,7 @@ pointer.speed(35)
 pointer.setposition(-460, -383)
 starting_x = -460
 starting_y = -383
+
 while True:
     pointer.pensize(15)
     pointer.dot(17, choice(color_list))
